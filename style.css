@@ -1,0 +1,52 @@
+body{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    
+}
+
+  
+      h1 {
+        
+        text-align: center;
+        background:midnightblue;
+        color: white;
+        font-size: 30px;
+        font-size: 50px;
+        color:mintcream;
+        text-align: center;
+}
+
+p
+{
+    font-size: 20px;
+    text-align: left;
+    color:white;
+}
+ ol 
+    {
+        
+        font-size: 90px;
+   
+        text-align: right;
+
+    }
+    
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+      table {
+        border: palevioletred;
+      }
+p
+{
+    text-align:left
+}
+
+    footer { 
+        background: greenyellow; 
+        clear: both;
+        padding-bottom: 0;
+        text-align: center;
+      }
