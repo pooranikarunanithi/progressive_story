@@ -17,13 +17,17 @@ h1 {
 
 p {
     font-size: 20px;
+    font-style: Serif;
     text-align: left;
-    color: white;
+    color: goldenrod ;
+    line-height: 1.6;
 }
 
-ol {
-    font-size: 90px;
-    text-align: right;
+li {
+    font-size: 20px;
+    text-align: left;
+    line-height: 1.6;
+    color: goldenrod ;
 }
 
 .center {
@@ -35,19 +39,30 @@ table {
     border-color: white;
 }
 
-p {
-    text-align: left
-}
 
 footer {
-    background: greenyellow;
     clear: both;
     padding-bottom: 0;
     text-align: center;
 }
 
-.good {
-    font-style: italic;
-    text-transform: capitalize;
+a:link {
     color: green;
-}
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+   text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    text-decoration: underline;
+  }
+
