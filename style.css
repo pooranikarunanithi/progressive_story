@@ -63,6 +63,27 @@ li {
     text-align: left;
     line-height: 1.6;
     color: rgb(83, 97, 218);
+    padding-right: 25px;
+    background-position: 25% 75%;
+    background-size: contain;
+
+}
+
+li:nth-child(1) {
+    background-image: url("thumbsup.png");
+    background-repeat: no-repeat;
+
+}
+
+li:nth-child(2) {
+    background-image: url("thumbsdown.png");
+    background-repeat: no-repeat;
+    
+}
+
+li:nth-child(3) {
+    background-image: url("fox.png");
+    background-repeat: no-repeat;
 }
 
 .center {
