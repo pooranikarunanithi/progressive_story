@@ -1,10 +1,16 @@
 body {
     font-size: 20px;
-    background-color: black;
+    background-color:rgb(53, 72, 126);
     color: white;
     max-width: 90%;
-    margin: 100px
+    margin: 100px;
+    background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/rN0W64K4ipau8gxv/videoblocks-colorful-gradient-background-seamless-live-wallpaper-4k-abstract-colorful-background_hzmnrek-u_thumbnail-1080_01.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
+
+
 
 
 h1 {
@@ -30,8 +36,12 @@ q {
     border: 3px solid firebrick;
     border-collapse: separate;
     border-spacing: 30px;
+    padding-left: 30px;
     font-size: 32px;
     background-color: grey;
+    margin: 80px auto;
+    
+
 
   }
   q::before {
