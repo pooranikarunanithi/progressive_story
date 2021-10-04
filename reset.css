@@ -2,3 +2,15 @@ body,h1,p,q,li
 {
   font-size:20px
     }
+a.link,a.visied
+{
+    text-decoration: none;
+}
+.good,.bad
+{
+    text-transform: capitalize;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
