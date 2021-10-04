@@ -22,12 +22,14 @@ body {
     color: red;
 }
 
-.secondimage
+.flex-container
 {
     display: flex;
-    justify-content:space-between;
-    
+    justify-content: space-between;
+    flex: 1 200px;
+
 }
+
 
 
 
@@ -47,6 +49,7 @@ p {
     text-align: left;
     color: rgb(83, 97, 218);
     line-height: 1.6;
+    justify-content: space-between;
 }
 
 q {
