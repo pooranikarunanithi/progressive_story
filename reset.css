@@ -1,4 +1,4 @@
-body
+body,h1,p,q,li
 {
-    margin: 0; padding: 0; border: 0; outline: none;
+  font-size:20px
     }
